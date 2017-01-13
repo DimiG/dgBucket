@@ -1,1 +1,7 @@
-{ version: "1.0", url: "https://gist.githubusercontent.com/DimiG/3b6747acb7c937668bfb8b213224f1f2/raw/8671fa966907c1c80123bdd9e451efd1639329b1/PassGEN.ps1", bin: "PassGEN.ps1" }
+{
+   "version": "1.0",
+   "url": "https://gist.githubusercontent.com/DimiG/3b6747acb7c937668bfb8b213224f1f2/raw/8671fa966907c1c80123bdd9e451efd1639329b1/PassGEN.ps1",
+   "hash": "3875e03e0e11dfd0e067326c90d4058c59f569fd7bc31047bbd289eba9355ba3",
+   "bin": "PassGEN.ps1"
+}
+
