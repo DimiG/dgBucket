@@ -8,7 +8,10 @@ Bucket description
 ### PowerShell scripts
 
 * `PassGEN.ps1`: This script generate the passwords by [PowerShell][powershell].
+* `ProResMaker_2016.ps1`: This script convert video to [ProRes codec][prores] by [ffmpeg][ffmpeg].
 
 [scoop]:http://scoop.sh
 [bucket]:https://github.com/lukesampson/scoop/tree/master/bucket
 [powershell]:https://msdn.microsoft.com/powershell
+[ffmpeg]:https://ffmpeg.org
+[prores]:https://en.wikipedia.org/wiki/Apple_ProRes#ProRes_422
