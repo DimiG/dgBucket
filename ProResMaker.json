@@ -1,7 +1,7 @@
 {
-   "version": "1.0.0",
-   "url": "https://raw.githubusercontent.com/DimiG/myWINscripts/master/PowerShell/ProResMaker_2016.ps1",
-   "hash": "9fd5d0cd67b198d045a9393d8bc9f3e1ca9cac4c4bcf9a855aae8e59e41ae6a0",
-   "bin": "ProResMaker_2016.ps1"
+   "version": "1.0.1",
+   "url": "https://raw.githubusercontent.com/DimiG/myWINscripts/master/PowerShell/ProResMaker.ps1",
+   "hash": "13aeb97caecb16fbf46b4caefc0748ca4bae9e92784e6dafc4ec86934260bdc0",
+   "bin": "ProResMaker.ps1"
 }
 
