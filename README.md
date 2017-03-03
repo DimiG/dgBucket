@@ -9,9 +9,12 @@ Bucket description
 
 * `PassGEN.ps1`: This script generate the passwords by [PowerShell][powershell].
 * `ProResMaker.ps1`: This script convert video to [ProRes codec][prores] by [ffmpeg][ffmpeg].
+* `RoboSync.ps1`: This script backup media from [Avid][avid] Media Server by Windows [Robocopy][robocopy] util.
 
 [scoop]:http://scoop.sh
 [bucket]:https://github.com/lukesampson/scoop/tree/master/bucket
 [powershell]:https://msdn.microsoft.com/powershell
 [ffmpeg]:https://ffmpeg.org
 [prores]:https://en.wikipedia.org/wiki/Apple_ProRes#ProRes_422
+[robocopy]:https://en.wikipedia.org/wiki/Robocopy
+[avid]:http://www.avid.com
