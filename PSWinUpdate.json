@@ -1,7 +1,7 @@
 {
-   "version": "1.0.0",
+   "version": "1.0.1",
    "url": "https://raw.githubusercontent.com/DimiG/myWINscripts/master/PowerShell/PSWinUpdate.ps1",
-   "hash": "0e4b4f40554c0942c7d642de96c75f0e94709e837cac2bebbda4731620685ed1",
+   "hash": "d47965b876bfd25e6abe83f03fa05b1f2c300594d12abf63ca427da2452e1ce8",
    "bin": "PSWinUpdate.ps1"
 }
 
