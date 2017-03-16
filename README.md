@@ -12,6 +12,10 @@ Bucket description
 * `RoboSync.ps1`: This script backup media from [Avid][avid] Media Server by Windows [Robocopy][robocopy] util.
 * `PSWinUpdate.ps1`: This script helps to automate the Windows updates procedure with [PowerShell Module][pswinupd].
 
+### Programs
+
+* `ffmbc.exe`: [FFmbc][ffmbc] customized for broadcast and professional usage as video files converter.
+
 [scoop]:http://scoop.sh
 [bucket]:https://github.com/lukesampson/scoop/tree/master/bucket
 [powershell]:https://msdn.microsoft.com/powershell
@@ -20,3 +24,4 @@ Bucket description
 [robocopy]:https://en.wikipedia.org/wiki/Robocopy
 [avid]:http://www.avid.com
 [pswinupd]:https://gallery.technet.microsoft.com/scriptcenter/2d191bcd-3308-4edd-9de2-88dff796b0bc
+[ffmbc]:https://www.videohelp.com/software/ffmbc
