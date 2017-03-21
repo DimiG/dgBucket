@@ -1,7 +1,7 @@
 {
-   "version": "1.0.0",
+   "version": "1.0.1",
    "url": "https://raw.githubusercontent.com/DimiG/myWINscripts/master/PowerShell/ProResCreator.ps1",
-   "hash": "51ff689ad270122b0d9ec32c5f574620a4678436a4eb77464eb5120d401007a3",
+   "hash": "4d812f320844b0b89b4af1c07f8960dab94167f5ce6520a6d82a6edc57c7863d",
    "depends": [
         "FFmbc"
    ],
