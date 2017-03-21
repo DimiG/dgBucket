@@ -11,6 +11,7 @@ Bucket description
 * `ProResMaker.ps1`: This script convert video to [ProRes codec][prores] by [ffmpeg][ffmpeg].
 * `RoboSync.ps1`: This script backup media from [Avid][avid] Media Server by Windows [Robocopy][robocopy] util.
 * `PSWinUpdate.ps1`: This script helps to automate the Windows updates procedure with [PowerShell Module][pswinupd].
+* `ProResCreator.ps1`: One more script implementation of [ProRes422][prores] file creator by [ffmbc][ffmbc].
 
 ### Programs
 
