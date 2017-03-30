@@ -1,7 +1,10 @@
 {
-   "version": "1.0.1",
+   "version": "1.0.2",
    "url": "https://raw.githubusercontent.com/DimiG/myWINscripts/master/PowerShell/ProResMaker.ps1",
-   "hash": "83c03a4ca9b94980e7b2c9dbe72c928f62a5aa45347b8619915dec93edd6cad9",
+   "hash": "badc32f227a0d74e14265644d10e985157ca1111a825b1f28b56c3f4e3fef0f1",
+   "depends": [
+      "ffmpeg"
+   ],
    "bin": "ProResMaker.ps1"
 }
 
