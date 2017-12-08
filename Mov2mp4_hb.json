@@ -1,0 +1,9 @@
+{
+   "version": "0.0.1",
+   "url": "https://raw.githubusercontent.com/DimiG/myWINscripts/master/CMD/mov2mp4_hb.cmd",
+   "hash": "d714d34b9687fbac28b959a7ec82a752c4296ebc4eaac3a13baa0cc26242c067",
+   "depends": [
+      "handbrake-cli"
+   ],
+   "bin": "mov2mp4_hb.cmd"
+}

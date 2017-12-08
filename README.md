@@ -12,7 +12,11 @@ Bucket description
 * `RoboSync.ps1`: This script backup media from [Avid][avid] Media Server by Windows [Robocopy][robocopy] util.
 * `PSWinUpdate.ps1`: This script helps to automate the Windows updates procedure with [PowerShell Module][pswinupd].
 * `ProResCreator.ps1`: One more script implementation of [ProRes422][prores] file creator by [ffmbc][ffmbc].
+
+### Windows Command Line scripts
+
 * `mov2mp4.cmd`: This script batch convert MOV video files to MP4 by [ffmpeg][ffmpeg].
+* `mov2mp4_hb.cmd`: This script batch convert MOV video files to MP4 by [handbrake-cli][handbrake].
 
 ### Programs
 
@@ -29,3 +33,4 @@ Bucket description
 [pswinupd]:https://gallery.technet.microsoft.com/scriptcenter/2d191bcd-3308-4edd-9de2-88dff796b0bc
 [ffmbc]:https://www.videohelp.com/software/ffmbc
 [tigervnc]:http://tigervnc.org
+[handbrake]:http://handbrake.fr
