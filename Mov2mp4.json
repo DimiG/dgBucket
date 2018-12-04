@@ -1,9 +1,0 @@
-{
-   "version": "0.0.1",
-   "url": "https://raw.githubusercontent.com/DimiG/myWINscripts/master/CMD/mov2mp4.cmd",
-   "hash": "8290d4b2454b024159266b231e5f791387f52b689bd60a6bc3242cb2a39883f7",
-   "depends": [
-      "ffmpeg"
-   ],
-   "bin": "mov2mp4.cmd"
-}

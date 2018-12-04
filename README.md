@@ -15,7 +15,6 @@ Bucket description
 
 ### Windows Command Line scripts
 
-* `mov2mp4.cmd`: This script batch convert MOV video files to MP4 by [ffmpeg][ffmpeg].
 * `mov2mp4_hb.cmd`: This script batch convert MOV video files to MP4 by [handbrake-cli][handbrake].
 
 ### Programs
