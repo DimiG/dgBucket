@@ -1,0 +1,9 @@
+{
+   "version": "1.0.0",
+   "url": "https://dl.dropboxusercontent.com/s/y65l0v61ad3hxs2/videotomp4-1.0.0.7z",
+   "hash": "89c734d63984b9d867020519cc3341bdfc7ad03ef1c4217424087b097c01e8d1",
+   "depends": [
+      "handbrake-cli"
+   ],
+   "bin": "videotomp4.exe"
+}
