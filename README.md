@@ -21,6 +21,12 @@ Bucket description
 
 * `ffmbc.exe`: [FFmbc][ffmbc] customized for broadcast and professional usage as video files converter.
 * `vncviewer64.exe`: [TigerVNC][tigervnc] is a high-performance, platform-neutral implementation of VNC (Virtual Network Computing). The viewer version is here only.
+* `videotomp4.exe`: Self made command line video [MP4][mp4] converter. Working as wrapper for [HandBrakeCLI][handbrake] converter program.
+
+
+### License  
+
+These [scoop][scoop] personal repos have been created by ©2019 DimiG
 
 [scoop]:http://scoop.sh
 [bucket]:https://github.com/lukesampson/scoop/tree/master/bucket
@@ -33,3 +39,4 @@ Bucket description
 [ffmbc]:https://www.videohelp.com/software/ffmbc
 [tigervnc]:http://tigervnc.org
 [handbrake]:http://handbrake.fr
+[mp4]:https://en.wikipedia.org/wiki/MPEG-4_Part_14
