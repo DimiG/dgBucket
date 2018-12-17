@@ -1,7 +1,7 @@
 {
-   "version": "1.0.0",
-   "url": "https://dl.dropboxusercontent.com/s/4b16upcwr8p5wqf/videotomp4-1.0.0.7z",
-   "hash": "b3af3e26bf40dff503a5a21ac91560df3be8d68f894e54b3ff89afff36c668ba",
+   "version": "1.0.1",
+   "url": "https://dl.dropboxusercontent.com/s/64lqeb4iop0ftlm/videotomp4-1.0.1.7z",
+   "hash": "101082935481970894fa4ac45a6b87f6263570dedb0f93c8f44c8379d0b5e0b3",
    "depends": [
       "handbrake-cli"
    ],
