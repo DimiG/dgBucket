@@ -12,6 +12,7 @@ Bucket description
 * `RoboSync.ps1`: This script backup media from [Avid][avid] Media Server by Windows [Robocopy][robocopy] util.
 * `PSWinUpdate.ps1`: This script helps to automate the Windows updates procedure with [PowerShell Module][pswinupd].
 * `ProResCreator.ps1`: One more script implementation of [ProRes422][prores] file creator by [ffmbc][ffmbc].
+* `WinSYSbackUp.ps1`: Current script helps to create the Windows System Backup for emergency purposes.
 
 ### Windows Command Line scripts
 
@@ -24,7 +25,7 @@ Bucket description
 * `videotomp4.exe`: Self made command line video [MP4][mp4] converter. Working as wrapper for [HandBrakeCLI][handbrake] converter program.
 
 
-### License  
+### License
 
 These [scoop][scoop] personal repos have been created by ©2019 DimiG
 
