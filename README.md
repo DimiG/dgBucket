@@ -23,6 +23,7 @@ Bucket description
 * `ffmbc.exe`: [FFmbc][ffmbc] customized for broadcast and professional usage as video files converter.
 * `vncviewer64.exe`: [TigerVNC][tigervnc] is a high-performance, platform-neutral implementation of VNC (Virtual Network Computing). The viewer version is here only.
 * `videotomp4.exe`: Self made command line video [MP4][mp4] converter. Working as wrapper for [HandBrakeCLI][handbrake] converter program.
+* `far.exe`: [Far Manager][far] is a program for managing files and archives in Windows operating systems. [Far Manager][far] works in text mode and provides a simple and intuitive interface for performing most of the necessary action.
 
 
 ### License
@@ -41,3 +42,5 @@ These [scoop][scoop] personal repos have been created by ©2019 DimiG
 [tigervnc]:http://tigervnc.org
 [handbrake]:http://handbrake.fr
 [mp4]:https://en.wikipedia.org/wiki/MPEG-4_Part_14
+[far]:https://farmanager.com
+
